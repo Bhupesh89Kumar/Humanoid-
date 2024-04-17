@@ -1,0 +1,34 @@
+What is a data structure?
+Why are data structures important?
+Give an example of a linear data structure.
+What is an algorithm?
+How is a stack different from a queue?
+Explain the concept of recursion.
+What is a linked list?
+How does a binary search work?
+What is the time complexity of the quicksort algorithm?
+Define a hash table.
+What is dynamic programming?
+Explain the concept of Big O notation.
+What is a tree in data structures?
+What is the purpose of a depth-first search (DFS)?
+How does a breadth-first search (BFS) algorithm work?
+What is an AVL tree?
+Explain the concept of a priority queue.
+What is the purpose of graph algorithms?
+How does Dijkstra's algorithm work?
+What is the purpose of a trie?
+Explain the concept of a Huffman coding.
+How does the A* algorithm work?
+Define a B-tree.
+What is the purpose of Kruskal's algorithm?
+Explain the concept of a suffix array.
+How does the Floyd-Warshall algorithm work?
+What is the purpose of a Bloom filter?
+Explain the concept of memoization.
+How does the traveling salesman problem relate to graph theory?
+Define a splay tree.
+What is a trie data structure used for?
+Explain the concept of a topological sort.
+How does the Boyer-Moore algorithm work?
+Define an Eulerian path.
